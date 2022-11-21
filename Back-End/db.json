@@ -5,7 +5,7 @@
       {
         "appid": 240,
         "name": "Counter-Strike: Source",
-        "playtime_forever": 2845,
+        "playtime_forever": 2890,
         "img_icon_url": "9052fa60c496a1c03383b27687ec50f4bf0f0e10",
         "img_logo_url": "ee97d0dbf3e5d5d59e69dc20b98ed9dc8cad5283",
         "has_community_visible_stats": true
@@ -17,13 +17,6 @@
         "img_icon_url": "b4f572a6cc5a6a84ae84634c31414b9123d2f26b",
         "img_logo_url": "a612dd944b768e55389140298dcfda2165db8ced",
         "has_community_visible_stats": true
-      },
-      {
-        "appid": 360,
-        "name": "Half-Life Deathmatch: Source",
-        "playtime_forever": 0,
-        "img_icon_url": "40b8a62efff5a9ab356e5c56f5c8b0532c8e1aa3",
-        "img_logo_url": "9a5b7119d4e8977fffcd370d3c24036be7cee904"
       },
       {
         "appid": 1630,
@@ -337,14 +330,6 @@
         "playtime_forever": 14526,
         "img_icon_url": "fbe80c4743e226f0bf65559c91b12953d4446808",
         "img_logo_url": "2203f62bd1bdc75c286c13534e50f22e3bd5bb58",
-        "has_community_visible_stats": true
-      },
-      {
-        "appid": 57300,
-        "name": "Amnesia: The Dark Descent",
-        "playtime_forever": 329,
-        "img_icon_url": "2c08de657a8b273eeb55bb5bf674605ca023e381",
-        "img_logo_url": "75b8a82acfb05abda97977ac4eb5af20e0dcf01e",
         "has_community_visible_stats": true
       },
       {
