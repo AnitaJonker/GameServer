@@ -1,6 +1,6 @@
 {
   "response": {
-    "game_count": 192,
+    "game_count": 193,
     "games": [
       {
         "appid": 240,
@@ -1477,6 +1477,14 @@
         "playtime_forever": 0,
         "img_icon_url": "0dfe3eed5658f9fbd8b62f8021038c0a4190f21d",
         "img_logo_url": "356b389ad5e6937f097b21b23acbb89608878ecf",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 101,
+        "name": "Disney Dreamlight Valley",
+        "playtime_forever": 0,
+        "img_icon_url": null,
+        "img_logo_url": null,
         "has_community_visible_stats": true
       }
     ]
