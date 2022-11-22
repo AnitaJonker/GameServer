@@ -45,3 +45,26 @@ Delete an element from file
 -just need to provide the id
 
 http://localhost:5001/userdelete/57300
+
+
+I started with this project at about 18:00 I finished at 1 am.
+I was motivated and assisted when I got stuck by my friend.
+But the only piece of code I would attribute to them is the function 
+deleteUserInfo()
+I did end up editing it quite a bit but I value honesty and integrity quite highly.
+They did brainstorm with me and helped me see it through.
+I thrive in these kind of conditions where I get to code but I do have someone that can give me guidance when I get stuck.
+
+Which is why I would love to join Terra Firma.
+I know mentoring and training is a core value and it's what I'm looking for.
+I had fun with this project.
+
+Changes I would make:
+I would like to get rid of the ForEach in the delete function.
+And make use of an index of and split it directly.
+But I ran out of time and I'd need to work with something that goes down to the next layer.
+
+
+
+
+
