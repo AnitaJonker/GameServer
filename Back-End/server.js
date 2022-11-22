@@ -39,12 +39,14 @@ app.post("/addgame", (req, res) => {
     has_community_visible_stats: true,
   }
 
+  //Add body to the array in object
   jsonObject.response.games.push(req.body)
   console.log("Succesfully created.")
 
   //update game count
   jsonObject.response.game_count += 1
 
+  //write to the file and show results
   update(jsonObject)
   res.json(`${req.body}`)
 })

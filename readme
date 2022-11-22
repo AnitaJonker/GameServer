@@ -1,2 +1,47 @@
 I've decided to create a mini server to get some game data.
 I'm quite passionate about games so let's see what I can make.
+
+Found an end point with some gaming data.
+Created a db.json file with the data.
+
+The server reads the json file into an object and then the crud happens on the object.
+
+CD into Back-End
+
+`npm start`
+
+To run this server you will need to use a program like postman or similar.
+Ran out of time so couldn't do a front-end.
+
+Displays all the games
+http://localhost:5001/games
+
+//Add a new game
+http://localhost:5001/addgame
+
+Headers: content-type: application/json
+
+Body:
+{
+"appid": 101,
+"name": "Disney Dreamlight Valley",
+"playtime_forever": 0,
+"img_icon_url": null,
+"img_logo_url": null,
+"has_community_visible_stats": true
+}
+
+Headers: content-type: application/jso
+Edit game -- you need to provide the id and the body of the update you want to make
+
+http://localhost:5001/userdet/240
+
+{
+"playtime_forever": 2890
+}
+
+Delete an element from file
+
+-just need to provide the id
+
+http://localhost:5001/userdelete/57300
